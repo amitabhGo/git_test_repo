@@ -8,5 +8,7 @@ int main(void)
 
     printf("sum: %d + 9 = %d", x, (x+9));
 
+    printf("iot enabled");
+
     return 0;
 }
