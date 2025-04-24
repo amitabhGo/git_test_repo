@@ -4,5 +4,9 @@ int main(void)
 {
     printf("heeloworldd!!");
 
+    int x = 9;
+
+    printf("sum: %d + 9 = %d", x, (x+9));
+
     return 0;
 }
