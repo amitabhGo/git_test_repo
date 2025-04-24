@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("heeloworldd!!");
+    
 
     int x = 9;
 
